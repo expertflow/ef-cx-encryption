@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>io.github.expertflow</groupId>
 	<artifactId>ef-cx-encryption</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<name>ef-cx-encryption</name>
 	<description>Encryption library</description>
 
@@ -31,9 +31,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/nabeelahm/ef-cx-encryption.git</connection>
-		<developerConnection>scm:git:ssh://github.com/nabeelahm/ef-cx-encryption.git</developerConnection>
-		<url>https://github.com/nabeelahm/ef-cx-encryption</url>
+		<connection>scm:git:git://github.com/expertflow/ef-cx-encryption.git</connection>
+		<developerConnection>scm:git:ssh://github.com/expertflow/ef-cx-encryption.git</developerConnection>
+		<url>https://github.com/expertflow/ef-cx-encryption</url>
 	</scm>
 
 	<properties>
